@@ -1,7 +1,7 @@
 module.exports = (data) => {
   console.log('Socket create')
   // const mydata = data.data;
-  // socket.room = 'fsbo_inbox_' + mydata.id;
+  // socket.room = 'inbox_' + mydata.id;
   // socket.name = mydata.username;
   // socket.join(socket.room);
   // socket.emit('gotoroom', mydata);
